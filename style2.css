@@ -1,0 +1,31 @@
+*{margin: 0;
+    padding: 0;
+
+}
+.first{
+    background: url(https://m.media-amazon.com/images/G/31/img24/Fashion/Event/Jupiter24/Teaser/Ingress/V1/Ingress__PC_2._CB563381354_.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 10px 50px;
+   padding: 100px 50px;
+    border: 5px dotted red;
+
+}
+.second{
+    background: url(https://m.media-amazon.com/images/G/31/img24/Fashion/AW/AF/hero/5_12._CB564865176_.jpg) no-repeat;
+    margin: 10px 50px;
+    padding: 100px;
+    background-size:cover;
+    background-position: center;
+    border: 5px solid black;
+
+
+}
+.third{
+    background: url(https://m.media-amazon.com/images/G/31/img24/Fashion/AF/3.0/PC/hero/Monsoon-Friendly-Footwear_4._CB555362677_.png) no-repeat;
+    margin: 10px 50px;
+   padding: 120px;
+    background-position: center;
+    background-size: cover;
+    border: 5px dotted purple;
+}
